@@ -196,7 +196,7 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/640x480-24.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/scan0010-1657x1280-45-1657x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f97352",
