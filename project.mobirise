@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "2.8.7",
     "versionPublish": "4.5.2",
-    "name": "MyFamily-clone",
+    "name": "MyFamily",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,9 +11,9 @@
     },
     "publishGDriveLocation": "avishagh@gmail.com",
     "publishGDrivePath": "",
-    "uniqCompNum": 1,
-    "favicon": "",
-    "noImageResize": ""
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "uniqCompNum": 0
   },
   "pages": {
     "index.html": {
@@ -33,50 +33,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#27aae0"
             },
             ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "background": "#27aae0"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -91,7 +51,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2c2c2c",
+            "color": "#27aae0",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -132,8 +92,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/scan0001-3424x2432-50-2000x1421-88.jpg",
             "parallax": true,
@@ -193,10 +153,10 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/scan0010-1657x1280-45-1657x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/scan0010-1657x1280-44-1657x1280-38.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f97352",
@@ -254,8 +214,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/aliya-866x608-30.jpg",
             "parallax": true,
@@ -315,8 +275,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/017-1024x1280-98.jpg",
             "parallax": true,
@@ -353,74 +313,6 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/scan0010-1657x1280-44-1657x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#f97352",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/m0del-savta-rivka-640x480-77.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-0"
         }
       ]
     },
