@@ -11,7 +11,9 @@
     },
     "publishGDriveLocation": "avishagh@gmail.com",
     "publishGDrivePath": "",
-    "uniqCompNum": 0
+    "uniqCompNum": 0,
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
