@@ -1,0 +1,1322 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.8.7",
+    "versionPublish": "4.4.1",
+    "name": "MyFamily-clone",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "publishGDriveLocation": "avishagh@gmail.com",
+    "publishGDrivePath": "",
+    "uniqCompNum": 0
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20150903-wa0000-1200x1600-32-1200x1600-66.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">אבישג</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">אפרת</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">רקפת</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">אבא</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">אמא</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">סבאסבתא</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/scan0001-3424x2432-50-2000x1421-88.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/scan0018-1728x1086-15-1400x880-40.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/scan0010-1657x1280-44-1657x1280-38.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/m0del-savta-rivka-640x480-77.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aliya-866x608-30.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20160201-wa0002-800x600-76-800x600-37.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/017-1024x1280-98.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-0725-901x600-65.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#27aae0"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#27aae0",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20150903-wa0000-1200x1600-32-1200x1600-66.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">אבישג</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">אפרת</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">רקפת</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">אבא</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">אמא</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">סבאסבתא</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/124-3072x2304-17-2000x1500-68.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0178-2048x1536-99-2000x1500-12-800x600-11.jpg",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1365-901x600-46-901x600-93.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20150904-wa0003-1600x900-3-1600x900-30-800x450-78.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/p4281126-2112x2816-59-2000x2667-74.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/scan0102-1154x778-32-1154x778-0.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-14",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/file-061-803x1184-59-803x1184-65-800x1180-86-800x1180-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/file-061-803x1184-59-803x1184-65-800x1180-86.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/file-080-1482x934-40-1482x934-16-1482x934-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/file-080-1482x934-40-1482x934-16.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20140731-wa0006-600x800-80-600x800-99-600x800-24-600x800-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20140731-wa0006-600x800-80-600x800-99-600x800-24.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150405-wa0003-1280x960-71-1280x960-33-800x600-69-800x600-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150405-wa0003-1280x960-71-1280x960-33-800x600-69.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160129-wa0022-900x1600-26-900x1600-22-900x1600-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160129-wa0022-900x1600-26-900x1600-22.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/file-072-944x673-48-944x673-59-800x570-15-800x570-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/file-072-944x673-48-944x673-59-800x570-15.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/file-002-480x720-12-480x720-43-480x720-71-480x720-85.png",
+                "image": "@PROJECT_PATH@/assets/images/file-002-480x720-12-480x720-43-480x720-71.png",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/file-060-426x505-29-426x505-12-426x505-78-426x505-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/file-060-426x505-29-426x505-12-426x505-78.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0161-1024x768-15-1024x768-5-1024x768-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0161-1024x768-15-1024x768-5.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151010-wa0001-1600x900-4-1600x900-28-800x450-35-800x450-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151010-wa0001-1600x900-4-1600x900-28-800x450-35.jpg",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-15",
+          "articleLayout": false
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#27aae0"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-16",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#27aae0",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20150903-wa0000-1200x1600-32-1200x1600-66.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">אבישג</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">אפרת</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">רקפת</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">אבא</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">אמא</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">סבאסבתא</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/p1190262-3072x2304-19-2000x1500-65.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/082-3072x2304-70-2000x1500-65.jpg",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/033-3072x2304-8-2000x1500-96.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/p7020169-3072x2304-92-2000x1500-59-800x600-51.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20150616-211818073-4320x2432-63-2000x1126-43.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-20150724-wa0008-1080x608-94-1080x608-62.jpg"
+              }
+            ]
+          },
+          "_anchor": "slider-19",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0659-401x600-74-401x600-7-401x600-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0659-401x600-74-401x600-7.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/192-3072x2304-95-2000x1500-89-800x600-36-800x600-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/192-3072x2304-95-2000x1500-89-800x600-36.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1365-901x600-46-901x600-68-901x600-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1365-901x600-46-901x600-68.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20140811-wa0000-1280x720-61-1280x720-61-1280x720-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20140811-wa0000-1280x720-61-1280x720-61.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0123-1024x768-16-1024x768-75-800x600-32-800x600-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0123-1024x768-16-1024x768-75-800x600-32.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20141206-wa0001-600x800-98-600x800-2-600x800-58-600x800-75.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20141206-wa0001-600x800-98-600x800-2-600x800-58.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/000-640x480-44-640x480-46-640x480-58-640x480-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/000-640x480-44-640x480-46-640x480-58.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20141206-wa0003-720x1280-0-720x1280-47-720x1280-60-720x1280-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20141206-wa0003-720x1280-0-720x1280-47-720x1280-60.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150320-wa0000-608x1080-66-608x1080-89-608x1080-54-608x1080-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150320-wa0000-608x1080-66-608x1080-89-608x1080-54.jpg",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-20",
+          "articleLayout": false
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#27aae0"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-21",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#27aae0",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20150903-wa0000-1200x1600-32-1200x1600-66.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">אבישג</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">אפרת</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">רקפת</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">אבא</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">אמא</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">סבאסבתא</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20141018-wa0000-800x600-82-800x600-26.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20141018-wa0016-1280x720-98-1280x720-91.jpg",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20151015-172823213-hdr-4320x2432-6-2000x1126-34.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1369-901x600-56-901x600-22.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0645-901x600-85-901x600-29-800x533-28.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-20150130-wa0004-1080x608-45-1080x608-35.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-24",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/082-1024x1280-89-1024x1280-23-800x1000-7-800x1000-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/082-1024x1280-89-1024x1280-23-800x1000-7.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/2-3072x2304-11-2000x1500-1-800x600-32-800x600-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-3072x2304-11-2000x1500-1-800x600-32.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/2304x3072-75-2000x2667-8-800x1067-79-800x1067-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2304x3072-75-2000x2667-8-800x1067-79.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/139-3072x2304-19-2000x1500-89-2000x1500-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/139-3072x2304-19-2000x1500-89.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20141004-wa0002-800x800-93-800x800-4-800x800-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20141004-wa0002-800x800-93-800x800-4.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20141018-wa0000-800x600-82-800x600-5-800x600-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20141018-wa0000-800x600-82-800x600-5.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150404-wa0010-1280x720-7-1280x720-7-800x450-1-800x450-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150404-wa0010-1280x720-7-1280x720-7-800x450-1.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150206-wa0002-1280x720-87-1280x720-68-1280x720-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150206-wa0002-1280x720-87-1280x720-68.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150823-wa0000-900x1600-92-900x1600-14-900x1600-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150823-wa0000-900x1600-92-900x1600-14.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150821-wa0007-1200x1600-26-1200x1600-82-800x1067-23-800x1067-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150821-wa0007-1200x1600-26-1200x1600-82-800x1067-23.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150524-wa0002-1280x960-46-1280x960-77-800x600-63-800x600-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150524-wa0002-1280x960-46-1280x960-77-800x600-63.jpg",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-27",
+          "articleLayout": false
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#27aae0"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-28",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#27aae0",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20150903-wa0000-1200x1600-32-1200x1600-66.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">אבישג</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">אפרת</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">רקפת</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">אבא</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">אמא</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">סבאסבתא</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0323-901x600-23-901x600-66.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0498-901x600-52-901x600-30.jpg",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0511-901x600-39-901x600-83.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20151002-wa0000-1600x900-97-1600x900-58.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-20151002-wa0000-1600x900-97-1600x900-58.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-32",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20141012-wa0003-960x1280-83-960x1280-98-800x1067-15-800x1067-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20141012-wa0003-960x1280-83-960x1280-98-800x1067-15.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0063-901x600-24-901x600-59-800x533-62-800x533-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0063-901x600-24-901x600-59-800x533-62.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150818-wa0005-900x1600-87-900x1600-74-800x1422-72-800x1422-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150818-wa0005-900x1600-87-900x1600-74-800x1422-72.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150819-wa0003-1200x1600-13-1200x1600-1-800x1067-80-800x1067-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150819-wa0003-1200x1600-13-1200x1600-1-800x1067-80.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150819-wa0005-900x1600-78-900x1600-31-800x1422-54-800x1422-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150819-wa0005-900x1600-78-900x1600-31-800x1422-54.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151004-wa0000-960x1280-44-960x1280-66-800x1067-53-800x1067-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151004-wa0000-960x1280-44-960x1280-66-800x1067-53.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150705-wa0003-1080x608-92-1080x608-85-1080x608-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150705-wa0003-1080x608-92-1080x608-85.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151029-wa0000-1200x1600-16-1200x1600-18-800x1067-86-800x1067-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151029-wa0000-1200x1600-16-1200x1600-18-800x1067-86.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151028-wa0001-1200x1600-28-1200x1600-55-1200x1600-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151028-wa0001-1200x1600-28-1200x1600-55.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151023-wa0004-1200x1600-94-1200x1600-64-800x1067-32-800x1067-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151023-wa0004-1200x1600-94-1200x1600-64-800x1067-32.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151123-wa0001-1600x1200-67-1600x1200-46-1600x1200-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151123-wa0001-1600x1200-67-1600x1200-46.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151119-wa0000-1599x899-30-1599x899-25-1599x899-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151119-wa0000-1599x899-30-1599x899-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160208-wa0008-1200x1600-26-1200x1600-66-800x1067-62-800x1067-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160208-wa0008-1200x1600-26-1200x1600-66-800x1067-62.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160208-wa0008-1200x1600-26-1200x1600-66-800x1067-62-800x1067-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160208-wa0008-1200x1600-26-1200x1600-66-800x1067-62.jpg",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-33",
+          "articleLayout": false
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#27aae0"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-34",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#27aae0",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20150903-wa0000-1200x1600-32-1200x1600-66.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">אבישג</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">אפרת</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">רקפת</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">אבא</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">אמא</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">סבאסבתא</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20151208-wa0000-1600x900-57-1600x900-80.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20150214-wa0002-1280x720-72-1280x720-94-800x450-97.jpg",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20151226-wa0002-1136x852-71-1136x852-11.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/p9250377-2048x1536-89-2000x1500-14.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20150106-wa0003-1280x960-72-1280x960-7-800x600-75.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-20150130-wa0010-800x600-39-800x600-56.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-37",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/083-1024x1280-78-1024x1280-65-800x1000-30-800x1000-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/083-1024x1280-78-1024x1280-65-800x1000-30.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/p9240059-3072x2304-0-2000x1500-11-2000x1500-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p9240059-3072x2304-0-2000x1500-11.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151208-wa0002-1599x899-6-1599x899-27-800x450-97-800x450-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151208-wa0002-1599x899-6-1599x899-27-800x450-97.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150314-211419730-1920x1080-23-1920x1080-7-800x450-22-800x450-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150314-211419730-1920x1080-23-1920x1080-7-800x450-22.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151208-wa0001-899x1599-70-899x1599-65-800x1423-35-800x1423-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151208-wa0001-899x1599-70-899x1599-65-800x1423-35.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00641-4320x3240-19-2000x1500-28-2000x1500-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00641-4320x3240-19-2000x1500-28.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20141219-wa0007-960x1280-21-960x1280-23-800x1067-41-800x1067-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20141219-wa0007-960x1280-21-960x1280-23-800x1067-41.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160130-wa0005-900x1600-67-900x1600-77-800x1422-41-800x1422-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160130-wa0005-900x1600-67-900x1600-77-800x1422-41.jpg",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-38",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
